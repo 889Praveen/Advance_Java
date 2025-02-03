@@ -1,4 +1,0 @@
-
-interface Dessert {
-    void serve();
-}
