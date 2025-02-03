@@ -1,3 +1,0 @@
-interface MainCourse {
-    void cook();
-}
