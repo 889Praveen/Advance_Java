@@ -1,0 +1,5 @@
+
+    interface Appetizer {
+        void prepare();
+    }
+
